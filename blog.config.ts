@@ -75,13 +75,13 @@ const blogConfig = {
 	/** 向 <head> 中添加脚本 */
 	scripts: [
 		// Twikoo 评论系统
-		{ src: 'https://lib.baomitu.com/twikoo/1.7.7/twikoo.min.js', defer: true },
+		{ src: 'https://lib.baomitu.com/twikoo/1.6.44/twikoo.min.js', defer: true },
 	],
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
 		envId: 'mongodb+srv://ywydog:ywydog@cluster0.6icm804.mongodb.net/?appName=Cluster0',
-		preload: 'https://cdn.jsdelivr.net/npm/twikoo@1.7.7/dist/twikoo.all.min.js',
+		preload: 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js',
 	},
 }
 
