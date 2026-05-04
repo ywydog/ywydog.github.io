@@ -85,7 +85,7 @@ const blogConfig = {
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
 		envId: 'mongodb+srv://ywydog:ywydog@cluster0.6icm804.mongodb.net/?appName=Cluster0',
-		preload: 'mongodb+srv://ywydog:ywydog@cluster0.6icm804.mongodb.net/?appName=Cluster0',
+		preload: 'https://cdn.jsdelivr.net/npm/twikoo@1.7.7/dist/twikoo.all.min.js',
 	},
 }
 
