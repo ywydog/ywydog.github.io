@@ -1,8 +1,8 @@
 import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
-	title: '小猫归处',
-	subtitle: '一个不知名的猫做出来的网站，看看就走吧',
+	title: '猫舍',
+	subtitle: '一个不知名的猫做出来的网站，看看再走吧',
 	// 长 description 利好于 SEO
 	description: '我就在这，不躲，不藏，不绕，不逃，稳稳地接住你。',
 	author: {
