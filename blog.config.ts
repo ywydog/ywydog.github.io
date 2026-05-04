@@ -9,7 +9,7 @@ const basicConfig = {
 		name: '沐安',
 		avatar: '/may.png',
 		email: 'ywydog',
-		homepage: 'https:/ywydog.github.io',
+		homepage: 'https:/ywydog.github.io/',
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',
@@ -20,7 +20,7 @@ const basicConfig = {
 	language: 'zh-CN',
 	timeEstablished: '2026-05-04',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://blog.zhilu.site/',
+	url: 'https:/ywydog.github.io/',
 	defaultCategory: '未分类',
 }
 
