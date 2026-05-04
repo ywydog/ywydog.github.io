@@ -76,7 +76,7 @@ export default defineAppConfig({
 				title: '社交',
 				items: [
 					{ icon: 'tabler:brand-github', text: 'ywydog', url: 'https://github.com/ywydog' },
-					{ icon: 'ri:qq-line', text: '个人QQ：3548160795', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
+					{ icon: 'ri:qq-line', text: '个人QQ：3548160795', url: 'https://qm.qq.com/q/uOVDP0xyvu' },
 					{ icon: 'tabler:mail', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
 				],
 			},
