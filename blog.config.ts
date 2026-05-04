@@ -7,7 +7,7 @@ const basicConfig = {
 	description: '我就在这，不躲，不藏，不绕，不逃，稳稳地接住你。',
 	author: {
 		name: '沐安',
-		avatar: '/may.png',
+		avatar: 'https://weavatar.com/avatar/5aac1c78441ddab278c7c9818c49e1b11ae2d795690a3bac41a50173dd6edab0?s=160',
 		email: 'ywydog',
 		homepage: 'https:/ywydog.github.io/',
 	},
