@@ -80,7 +80,7 @@ const blogConfig = {
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: 'mongodb://ywydog:ywydog@ac-gowhqwn-shard-00-00.6icm804.mongodb.net:27017,ac-gowhqwn-shard-00-01.6icm804.mongodb.net:27017,ac-gowhqwn-shard-00-02.6icm804.mongodb.net:27017/?ssl=true&replicaSet=atlas-111o4i-shard-0&authSource=admin&appName=Cluster0',
+		envId: 'https://twikoo-eta-neon.vercel.app',
 		preload: 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js',
 	},
 }
