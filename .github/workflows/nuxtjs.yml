@@ -34,7 +34,6 @@ jobs:
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
-        # 不指定 version，自动读取 package.json 中的 packageManager
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -44,29 +43,17 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          static_site_generator: nuxt
-
-      - name: Restore cache
-        uses: actions/cache@v4
-        with:
-          path: |
-            dist
-            .nuxt
-          key: ${{ runner.os }}-nuxt-build-${{ hashFiles('dist') }}
-          restore-keys: |
-            ${{ runner.os }}-nuxt-build-
 
       - name: Install dependencies
         run: pnpm install
 
-      - name: Static HTML export with Nuxt
-        run: pnpm run generate
+      - name: Generate static site
+        run: pnpm generate
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: .output/public
 
   # Deployment job
   deploy:
