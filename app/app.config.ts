@@ -58,7 +58,7 @@ export default defineAppConfig({
 		/** 侧边栏底部图标导航 */
 		iconNav: [
 			{ icon: 'tabler:home', text: '个人主页', url: blogConfig.author.homepage },
-			{ icon: 'ri:qq-line', text: '个人QQ: 3548160795', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
+			{ icon: 'ri:qq-line', text: '个人QQ: 3548160795', url: 'https://qm.qq.com/q/uOVDP0xyvu' },
 			{ icon: 'tabler:brand-github', text: 'GitHub: ywydog', url: 'https://github.com/ywydog' },
 			{ icon: 'tabler:rss', text: 'Atom订阅', url: '/atom.xml' },
 			{ icon: 'ri:subway-line', text: '开往 - 博客下一站', url: 'https://www.travellings.cn/go.html' },
