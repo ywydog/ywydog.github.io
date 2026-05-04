@@ -58,7 +58,7 @@ export default defineAppConfig({
 		/** 侧边栏底部图标导航 */
 		iconNav: [
 			{ icon: 'tabler:home', text: '个人主页', url: blogConfig.author.homepage },
-			{ icon: 'ri:qq-line', text: '交流群: 169994096', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
+			{ icon: 'ri:qq-line', text: '个人QQ: 3548160795', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
 			{ icon: 'tabler:brand-github', text: 'GitHub: ywydog', url: 'https://github.com/ywydog' },
 			{ icon: 'tabler:rss', text: 'Atom订阅', url: '/atom.xml' },
 			{ icon: 'ri:subway-line', text: '开往 - 博客下一站', url: 'https://www.travellings.cn/go.html' },
@@ -76,7 +76,7 @@ export default defineAppConfig({
 				title: '社交',
 				items: [
 					{ icon: 'tabler:brand-github', text: 'ywydog', url: 'https://github.com/ywydog' },
-					{ icon: 'ri:qq-line', text: '群: 169994096', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
+					{ icon: 'ri:qq-line', text: '个人QQ：3548160795', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
 					{ icon: 'tabler:mail', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
 				],
 			},
@@ -92,7 +92,7 @@ export default defineAppConfig({
 
 	/** 左侧栏顶部 Logo */
 	header: {
-		logo: 'https://weavatar.com/avatar/47c0f2e82b76d9b10eb3023df9e02e4e3fdbeaf5b74b842063f207971e7fbe7b?s=160',
+		logo: 'https://weavatar.com/avatar/5aac1c78441ddab278c7c9818c49e1b11ae2d795690a3bac41a50173dd6edab0?s=160',
 		/** 展示标题文本，否则展示纯 Logo */
 		showTitle: true,
 		subtitle: blogConfig.subtitle,
