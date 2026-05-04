@@ -66,16 +66,6 @@ class: gradient-card active
 **使用必读**<br>👉👉🎨
 ::
 
-### 开发过程
-
-::link-banner
----
-banner: https://assets.zhilu.cyou/cover3/blog-using-nuxt.jpg
-title: 博客进化：从 Hexo 到 Nuxt Content
-link: /2024/blog-using-nuxt
----
-::
-
 ## 开源与衍生
 
 - 灵感源自 [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)，这是一个经过精致设计的简洁 Hexo 主题。
