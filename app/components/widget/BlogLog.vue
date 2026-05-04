@@ -2,7 +2,7 @@
 const { timeEstablished } = useAppConfig()
 
 const blogLog = [
-	{ label: '2026-05-04', value: '开始搭建网站' }，
+	{ label: '2026-05-05', value: '开始搭建网站' }，
 	{ label: timeEstablished, value: '发布第一篇文章' },
 ]
 </script>
