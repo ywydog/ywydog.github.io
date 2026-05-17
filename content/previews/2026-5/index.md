@@ -1,7 +1,7 @@
 ---
-title: 测试发布
+title: 2026-5
 description: 测试
-date: 2026-5-3
+date: 2026-05-03
 updated: 2026-05-17
 image: # 封面图推荐 2:1，不含与标题重复的文字
 type: story
