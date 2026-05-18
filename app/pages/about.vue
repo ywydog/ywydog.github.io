@@ -25,7 +25,7 @@ layoutStore.setAside(['blog-stats'])
 		<h1>{{ appConfig.author.name }}</h1>
 		<p class="about-motto">
 			<!-- TODO: 替换为你的一句话介绍 -->
-			在这里写一句话介绍自己
+			欢迎光临，期待你的了解(￣▽￣) ノ
 		</p>
 	</section>
 
@@ -33,7 +33,7 @@ layoutStore.setAside(['blog-stats'])
 	<section class="about-section">
 		<h2>关于我</h2>
 		<!-- TODO: 替换为你的自我介绍 -->
-		<p>这里是自我介绍的内容，可以写你的兴趣、专业、正在做的事情等等。</p>
+		<p>我是一名在读初中生，目前正在主攻学习，无法将编程作为主要兴趣，正在编程入门</p>
 	</section>
 
 	<!-- 技能 / 方向 -->
@@ -41,9 +41,9 @@ layoutStore.setAside(['blog-stats'])
 		<h2>方向</h2>
 		<!-- TODO: 替换为你的技能或方向 -->
 		<ul>
-			<li>技能或方向一</li>
-			<li>技能或方向二</li>
-			<li>技能或方向三</li>
+			<li>想成为开源社区的贡献者</li>
+			<li>似乎能看懂基础的报错</li>
+			<li>看小说，算吗？</li>
 		</ul>
 	</section>
 
@@ -53,7 +53,7 @@ layoutStore.setAside(['blog-stats'])
 		<ul>
 			<li>
 				<Icon name="tabler:brand-github" />
-				<UtilLink to="https://github.com/ywydog">GitHub</UtilLink>
+				<UtilLink to="https://github.com/ywydog">GitHub:ywydog </UtilLink>
 			</li>
 			<li>
 				<Icon name="tabler:mail" />
