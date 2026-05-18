@@ -115,6 +115,7 @@ export default defineAppConfig({
 				{ icon: 'tabler:files', text: '文章', url: '/' },
 				{ icon: 'tabler:link', text: '友链', url: '/link' },
 				{ icon: 'tabler:archive', text: '归档', url: '/archive' },
+				{ icon: 'tabler:user-circle', text: '关于', url: '/about' },
 			],
 		},
 	] satisfies Nav,
