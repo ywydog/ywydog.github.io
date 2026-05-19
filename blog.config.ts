@@ -1,7 +1,7 @@
 import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
-	title: '猫舍',
+	title: '零号书页',
 	subtitle: '一个不知名的猫做出来的网站，看看再走吧',
 	// 长 description 利好于 SEO
 	description: '我就在这，不躲，不藏，不绕，不逃，稳稳地接住你。',
@@ -16,7 +16,7 @@ const basicConfig = {
 		name: '署名-非商业性使用-相同方式共享 4.0 国际',
 		url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
 	},
-	favicon: '/may.png',
+	favicon: 'https://weavatar.com/avatar/5aac1c78441ddab278c7c9818c49e1b11ae2d795690a3bac41a50173dd6edab0?s=160',
 	language: 'zh-CN',
 	timeEstablished: '2026-05-04',
 	timeZone: 'Asia/Shanghai',
