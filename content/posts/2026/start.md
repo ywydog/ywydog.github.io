@@ -15,7 +15,7 @@ tags: [开篇]
 
 ## 展望
 
-对未来的文章我有一点点的规划差不多，先肝一个[classisland](https://www.classisland.tech/ "classisland，一款功能强大的大屏课表软件")的食用方法吧~~杂谈可能更多~~
+对未来的文章我有一点点的规划差不多，先肝一个[classisland](https://www.classisland.tech/)的食用方法吧~~杂谈可能更多~~
 
 ## 写在最后
 
