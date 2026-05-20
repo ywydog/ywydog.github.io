@@ -6,7 +6,7 @@ updated: 2026-05-20
 hideInfo: true
 permalink: /about
 aside: [blog-stats]
-type: story
+type: tech
 categories: [生活]
 tags: [关于]
 ---
