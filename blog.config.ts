@@ -80,8 +80,8 @@ const blogConfig = {
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: 'https://twikoo-eta-neon.vercel.app',
-		preload: 'https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.all.min.js',
+		envId: 'https://twikoo-eta-neon.vercel.app/',
+		preload: 'https://twikoo-eta-neon.vercel.app/',
 	},
 }
 
